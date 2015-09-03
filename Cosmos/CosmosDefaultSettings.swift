@@ -46,16 +46,16 @@ struct CosmosDefaultSettings {
   
   */
   static let starPoints: [CGPoint] = [
-    CGPoint(x: 49.5,  y: 0.0),
-    CGPoint(x: 60.5,  y: 35.0),
-    CGPoint(x: 99.0, y: 35.0),
-    CGPoint(x: 67.5,  y: 58.0),
-    CGPoint(x: 78.5,  y: 92.0),
-    CGPoint(x: 49.5,    y: 71.0),
-    CGPoint(x: 20.5,  y: 92.0),
-    CGPoint(x: 31.5,  y: 58.0),
-    CGPoint(x: 0.0,   y: 35.0),
-    CGPoint(x: 38.5,  y: 35.0)
+    CGPoint(x:50.0, y:0),
+    CGPoint(x:65.45, y:31.55),
+    CGPoint(x:100.00, y:36.55),
+    CGPoint(x:75.00, y:61.05),
+    CGPoint(x:81.00, y:95.05),
+    CGPoint(x:50.00, y:79.35),
+    CGPoint(x:19.00, y:95.05),
+    CGPoint(x:25.00, y:61.05),
+    CGPoint(x:0.00, y:36.55),
+    CGPoint(x:34.60, y:31.53)
   ]
   
   /// Size of a single star.
